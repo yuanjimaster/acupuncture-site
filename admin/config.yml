@@ -3,7 +3,7 @@ backend:
   repo: yuanjimaster/acupuncture-site
   branch: main
 
-# 这里的路径必须用引号包裹，以处理长文件名和空格
+# 必须加双引号，否则空格会导致路径解析失败
 media_folder: "Acupuncture - Dr. Frank Huo's Energy Medicine_files"
 public_folder: "Acupuncture - Dr. Frank Huo's Energy Medicine_files"
 

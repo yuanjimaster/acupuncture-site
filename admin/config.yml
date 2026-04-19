@@ -2,18 +2,20 @@ backend:
   name: github
   repo: yuanjimaster/acupuncture-site
   branch: main
+  # 关键：加上下面这一行，绕过 Netlify，直接寻找 Cloudflare 的网关
+  base_url: https://acupuncture-site.yuanjimaster.workers.dev
+  auth_endpoint: api/auth
 
-# 必须加双引号，否则空格会导致路径解析失败
 media_folder: "Acupuncture - Dr. Frank Huo's Energy Medicine_files"
 public_folder: "Acupuncture - Dr. Frank Huo's Energy Medicine_files"
 
 collections:
   - name: "pages"
-    label: "内容更新面板"
+    label: "网页内容管理"
     files:
       - file: "index.html"
         label: "首页修改"
         name: "home"
         fields:
           - {label: "主标题", name: "title", widget: "string"}
-          - {label: "介绍文字", name: "body", widget: "markdown"}
+          - {label: "正文文字", name: "body", widget: "markdown"}

@@ -2,5 +2,19 @@ backend:
   name: github
   repo: yuanjimaster/acupuncture-site
   branch: main
-  base_url: https://acupuncture-site.yuanjimaster.workers.dev # 这里的地址要和你的预览地址对齐
-  auth_endpoint: api/auth
+
+# 1. 解决 media_folder 报错
+media_folder: "Acupuncture - Dr. Frank Huo's Energy Medicine_files" 
+public_folder: "Acupuncture - Dr. Frank Huo's Energy Medicine_files"
+
+# 2. 解决 collections 报错
+collections:
+  - name: "pages"
+    label: "网页内容管理"
+    files:
+      - file: "index.html"
+        label: "首页修改"
+        name: "home"
+        fields:
+          - {label: "主标题", name: "title", widget: "string"}
+          - {label: "介绍内容", name: "body", widget: "markdown"}

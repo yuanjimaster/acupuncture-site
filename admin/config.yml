@@ -3,18 +3,17 @@ backend:
   repo: yuanjimaster/acupuncture-site
   branch: main
 
-# 1. 解决 media_folder 报错
-media_folder: "Acupuncture - Dr. Frank Huo's Energy Medicine_files" 
+# 这里的路径必须用引号包裹，以处理长文件名和空格
+media_folder: "Acupuncture - Dr. Frank Huo's Energy Medicine_files"
 public_folder: "Acupuncture - Dr. Frank Huo's Energy Medicine_files"
 
-# 2. 解决 collections 报错
 collections:
   - name: "pages"
-    label: "网页内容管理"
+    label: "内容更新面板"
     files:
       - file: "index.html"
         label: "首页修改"
         name: "home"
         fields:
           - {label: "主标题", name: "title", widget: "string"}
-          - {label: "介绍内容", name: "body", widget: "markdown"}
+          - {label: "介绍文字", name: "body", widget: "markdown"}

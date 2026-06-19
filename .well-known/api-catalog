@@ -1,0 +1,34 @@
+{
+  "linkset": [
+    {
+      "anchor": "https://acupuncturistusa.com/",
+      "service-desc": [
+        {
+          "href": "https://acupuncturistusa.com/llms.txt",
+          "type": "text/plain"
+        }
+      ],
+      "service-doc": [
+        {
+          "href": "https://acupuncturistusa.com/faq",
+          "type": "text/html"
+        }
+      ],
+      "describedby": [
+        {
+          "href": "https://acupuncturistusa.com/sitemap.xml",
+          "type": "application/xml"
+        }
+      ]
+    },
+    {
+      "anchor": "https://acupuncturistusa.com/#contact",
+      "service-doc": [
+        {
+          "href": "https://acupuncturistusa.com/faq",
+          "type": "text/html"
+        }
+      ]
+    }
+  ]
+}

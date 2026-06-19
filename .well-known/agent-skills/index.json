@@ -1,0 +1,35 @@
+{
+  "$schema": "https://agentskills.io/schema/v0.2.0/index.json",
+  "skills": [
+    {
+      "name": "appointment-scheduling",
+      "type": "form",
+      "description": "Schedule an acupuncture, herbal medicine, or energy medicine appointment with Dr. Frank Huo at Huo Energy Medicine & Acupuncture NYC in Fresh Meadows, Queens.",
+      "url": "https://acupuncturistusa.com/#contact"
+    },
+    {
+      "name": "treatment-lookup",
+      "type": "content",
+      "description": "Browse 17+ acupuncture and energy medicine treatments including cancer support, arthritis, depression, infertility, chronic pain, migraines, MS, and more.",
+      "url": "https://acupuncturistusa.com/acupuncture"
+    },
+    {
+      "name": "testimonials",
+      "type": "content",
+      "description": "Read 20+ real patient recovery stories and testimonials covering cancer survival, chronic pain relief, fertility success, and autoimmune recovery.",
+      "url": "https://acupuncturistusa.com/testimonials"
+    },
+    {
+      "name": "research-publications",
+      "type": "content",
+      "description": "Access published scientific research papers from Columbia Presbyterian Medical Center on Dr. Huo's energy medicine, plus PBS and CNN media appearances.",
+      "url": "https://acupuncturistusa.com/downloads"
+    },
+    {
+      "name": "pricing-faq",
+      "type": "content",
+      "description": "View treatment pricing ($125 acupuncture, $399 herbal/energy), insurance info, conditions treated, and frequently asked questions.",
+      "url": "https://acupuncturistusa.com/faq"
+    }
+  ]
+}

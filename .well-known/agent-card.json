@@ -1,0 +1,69 @@
+{
+  "name": "Huo Energy Medicine & Acupuncture NYC",
+  "description": "AI agent for Huo Energy Medicine & Acupuncture NYC. Provides clinic information, treatment details, pricing, appointment scheduling guidance, and research publications for Dr. Frank Huo's acupuncture and energy medicine practice in Fresh Meadows, Queens, New York.",
+  "url": "https://acupuncturistusa.com",
+  "provider": {
+    "organization": "Huo Energy Medicine & Acupuncture NYC",
+    "url": "https://acupuncturistusa.com"
+  },
+  "version": "1.0.0",
+  "capabilities": {
+    "streaming": false,
+    "pushNotifications": false
+  },
+  "authentication": {
+    "schemes": ["anonymous"],
+    "credentials": null
+  },
+  "supportedInterfaces": [
+    {
+      "protocol": "https",
+      "url": "https://acupuncturistusa.com/api/chat",
+      "contentTypes": ["application/json"]
+    },
+    {
+      "protocol": "https",
+      "url": "https://acupuncturistusa.com/api/search",
+      "contentTypes": ["application/json"]
+    }
+  ],
+  "defaultInputModes": ["text/plain"],
+  "defaultOutputModes": ["application/json"],
+  "skills": [
+    {
+      "id": "clinic-info",
+      "name": "Get Clinic Information",
+      "description": "Returns contact details, address, hours, and pricing for the clinic",
+      "tags": ["contact", "hours", "pricing", "location"],
+      "examples": ["What are your hours?", "Where is the clinic located?", "How much does acupuncture cost?"]
+    },
+    {
+      "id": "treatments",
+      "name": "List Treatments & Conditions",
+      "description": "Lists all treatment modalities and conditions treated including acupuncture, energy medicine, and herbal medicine",
+      "tags": ["treatments", "conditions", "acupuncture", "energy medicine", "herbal medicine"],
+      "examples": ["What conditions do you treat?", "Do you treat back pain?", "What is energy medicine?"]
+    },
+    {
+      "id": "research",
+      "name": "Research & Credentials",
+      "description": "Provides information about Dr. Huo's published research at Columbia Presbyterian Medical Center with Dr. Oz and media appearances",
+      "tags": ["research", "credentials", "publications", "Dr. Oz", "Columbia"],
+      "examples": ["What research has Dr. Huo published?", "Tell me about the Columbia study"]
+    },
+    {
+      "id": "chat",
+      "name": "Patient Chat",
+      "description": "AI-powered conversational assistant that answers patient questions about the clinic, treatments, and scheduling",
+      "tags": ["chat", "questions", "appointment"],
+      "examples": ["Can acupuncture help with migraines?", "How do I book an appointment?"]
+    },
+    {
+      "id": "search",
+      "name": "Site Search",
+      "description": "Search across all clinic pages for specific treatments, conditions, or information",
+      "tags": ["search", "find"],
+      "examples": ["Search for arthritis treatment", "Find information about infertility"]
+    }
+  ]
+}

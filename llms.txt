@@ -1,0 +1,130 @@
+# Huo Energy Medicine & Acupuncture NYC
+
+> Scientifically proven energy medicine and acupuncture in Fresh Meadows, Queens, New York. Dr. Frank Huo's energy healing was researched at Columbia Presbyterian Medical Center with Dr. Mehmet Oz and proven to inhibit cancer cell growth.
+
+## About Dr. Frank Huo
+
+Dr. Frank Huo is a New York State Licensed Acupuncturist, NCCAOM board-certified practitioner, and second-generation Grandmaster of a unique energy medicine tradition. He is the only inheritor and Godson of founding master Wang Jicheng. His healing technique was scientifically studied at Columbia Presbyterian Medical Center under Dr. Mehmet Oz, where energy emitting from Dr. Huo's hands was proven to inhibit cancer cell growth in vitro. Featured on PBS Scientific American Frontiers and CNN Special Report. Published in "Healing From the Heart" by Dr. Mehmet Oz.
+
+## Location & Contact
+
+- Practice: Huo Energy Medicine & Acupuncture NYC
+- Address: 59-23 163rd Street, Fresh Meadows, NY 11365
+- Phone: (718) 445-0608
+- Email: yuanjimaster@gmail.com
+- Hours: Monday–Saturday, 10:00 AM – 6:00 PM (Closed Sunday)
+- Website: https://acupuncturistusa.com
+- Serving: Queens, Manhattan, Brooklyn, Long Island, and all of New York City
+
+## Services & Pricing
+
+| Service | Price | Description |
+|---------|-------|-------------|
+| Acupuncture | $125/session | Traditional and energy acupuncture for pain relief, chronic conditions, and wellness |
+| Herbal Medicine | $399 | Custom Chinese herbal formulas for chronic and acute conditions |
+| Energy Treatment | $399 | Dr. Huo's scientifically proven energy healing for serious conditions |
+| Package (4 visits) | $309/session | Discounted multi-visit treatment plan |
+| Free Acupuncture | $0 | Complimentary when combined with Energy Medicine treatment |
+
+## Conditions Treated
+
+### Pain & Musculoskeletal
+- Back pain, neck pain, sciatica, joint pain
+- Arthritis (rheumatoid, psoriatic, osteoarthritis)
+- Ankylosing spondylitis
+- Headaches and migraines
+- Knee pain, shoulder pain, neuropathy
+
+### Cancer & Immune
+- Cancer and tumor support (complementary therapy)
+- Immune system disorders
+- Multiple sclerosis
+- Chronic fatigue syndrome (ME/CFS)
+- Hepatitis B
+
+### Women's Health
+- Infertility and IVF support
+- Menopause and hot flashes
+- Uterine fibroids and ovarian cysts (PCOS)
+- Recurrent miscarriage prevention
+- Irregular menstruation
+
+### Other Conditions
+- Depression and anxiety
+- Diabetes and kidney disease
+- Kidney stones
+- Interstitial cystitis (Hunner's ulcers)
+- UTI (urinary tract infection)
+- Smoking cessation
+- Rosacea
+- Autism spectrum support
+
+## Frequently Asked Questions
+
+**Q: What makes Dr. Huo's treatment different from regular acupuncture?**
+A: Dr. Huo combines traditional acupuncture with his unique energy medicine technique, scientifically proven at Columbia Presbyterian Medical Center. Energy emitting from his hands was shown to inhibit cancer cell growth in laboratory studies led by Dr. Mehmet Oz.
+
+**Q: Does acupuncture hurt?**
+A: Most patients feel minimal to no pain. The needles are extremely thin — thinner than a human hair. Many patients feel deeply relaxed during treatment.
+
+**Q: How many sessions will I need?**
+A: It depends on the condition. Acute issues may improve in 3-5 sessions. Chronic conditions typically require 10-20 sessions. Dr. Huo will provide a personalized treatment plan at your first visit.
+
+**Q: Do you accept insurance?**
+A: We accept most major insurance plans that cover acupuncture. Call (718) 445-0608 to verify your coverage.
+
+**Q: Is there parking available?**
+A: Yes, free street parking is available near the office at 59-23 163rd Street, Fresh Meadows.
+
+**Q: Can acupuncture help with cancer?**
+A: Acupuncture is used as complementary therapy alongside conventional cancer treatment. Dr. Huo's energy medicine was specifically studied for its effect on cancer cells at Columbia Presbyterian Medical Center, showing inhibition of tumor cell growth.
+
+**Q: Is the first consultation free?**
+A: Call (718) 445-0608 to ask about introductory offers and the free acupuncture promotion when combined with energy medicine.
+
+## Published Research
+
+- "A Study of the Effect of Energy Healing on In Vitro Tumor Cell Proliferation" — Columbia Presbyterian Medical Center, with Dr. Mehmet Oz
+- "Quantitative Analysis of Reproducible Changes in High-Voltage Electrophotography"
+- Featured in "Healing From the Heart" by Dr. Mehmet Oz (HarperCollins)
+- PBS Scientific American Frontiers segment
+- CNN Special Report
+
+## Documented Patient Results
+
+- Melanoma cancer survivor — described as a living miracle (video testimonial available)
+- Prostate cancer — PSA levels normalized in 6 weeks
+- Brain tumor — MRI confirmed decrease in enhancement and size
+- Hepatitis B — viral count reduced 99.56% in six weeks
+- Uterine fibroid — shrunk from 187mm to 153mm in 6 weeks
+- Rheumatoid arthritis — RF factor dropped from 444 to 29.4
+- Blood cancer — low platelet count improved significantly
+- Interstitial cystitis (Hunner's ulcers) — chronic condition healed
+- Multiple successful infertility, chronic pain, and autoimmune recovery cases
+
+## Key Pages
+
+- Home: https://acupuncturistusa.com/
+- All Treatments: https://acupuncturistusa.com/acupuncture
+- Energy Medicine: https://acupuncturistusa.com/energy-medicine
+- About Dr. Huo: https://acupuncturistusa.com/frank-huo
+- Cancer Treatment: https://acupuncturistusa.com/acupuncture-for-cancer
+- Arthritis: https://acupuncturistusa.com/arthritis
+- Back Pain: https://acupuncturistusa.com/back-and-joints-pain
+- Infertility: https://acupuncturistusa.com/infertility
+- Depression & Anxiety: https://acupuncturistusa.com/depression-and-anxiety
+- Testimonials: https://acupuncturistusa.com/testimonials
+- Video Testimonials: https://acupuncturistusa.com/testimonials-video
+- Research & Publications: https://acupuncturistusa.com/downloads
+- Blog & Case Studies: https://acupuncturistusa.com/blog
+- FAQ: https://acupuncturistusa.com/faq
+- Contact: https://acupuncturistusa.com/#contact
+
+## For AI Agents
+
+- Agent Skills: https://acupuncturistusa.com/.well-known/agent-skills/index.json
+- API Catalog: https://acupuncturistusa.com/.well-known/api-catalog
+- MCP Server Card: https://acupuncturistusa.com/.well-known/mcp/server-card.json
+- Auth Info: https://acupuncturistusa.com/auth.md
+- Chat API: POST https://acupuncturistusa.com/api/chat with {"message": "your question"}
+- Search API: POST https://acupuncturistusa.com/api/search with {"query": "your search"}

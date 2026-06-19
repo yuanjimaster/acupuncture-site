@@ -1,0 +1,38 @@
+{
+  "serverInfo": {
+    "name": "Huo Energy Medicine & Acupuncture NYC",
+    "version": "1.0.0",
+    "description": "Acupuncture, herbal medicine, and scientifically proven energy medicine clinic in Fresh Meadows, Queens, New York. Dr. Frank Huo, NCCAOM board certified."
+  },
+  "capabilities": {
+    "resources": true,
+    "tools": false,
+    "prompts": false
+  },
+  "resources": [
+    {
+      "uri": "https://acupuncturistusa.com/llms.txt",
+      "name": "Site Overview",
+      "description": "Complete overview of the clinic, services, conditions treated, pricing, and research publications.",
+      "mimeType": "text/plain"
+    },
+    {
+      "uri": "https://acupuncturistusa.com/sitemap.xml",
+      "name": "Sitemap",
+      "description": "XML sitemap listing all 38 pages on the site.",
+      "mimeType": "application/xml"
+    },
+    {
+      "uri": "https://acupuncturistusa.com/.well-known/agent-skills/index.json",
+      "name": "Agent Skills Index",
+      "description": "Discovery index of available site skills for AI agents.",
+      "mimeType": "application/json"
+    }
+  ],
+  "contact": {
+    "name": "Dr. Frank Huo",
+    "phone": "+1-718-445-0608",
+    "address": "59-23 163rd Street, Fresh Meadows, NY 11365",
+    "website": "https://acupuncturistusa.com"
+  }
+}
